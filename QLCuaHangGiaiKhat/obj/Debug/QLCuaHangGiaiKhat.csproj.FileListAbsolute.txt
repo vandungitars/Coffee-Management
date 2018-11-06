@@ -1,0 +1,8 @@
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\bin\Debug\QLCuaHangGiaiKhat.exe.config
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\bin\Debug\QLCuaHangGiaiKhat.exe
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\bin\Debug\QLCuaHangGiaiKhat.pdb
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\obj\Debug\QLCuaHangGiaiKhat.csprojResolveAssemblyReference.cache
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\obj\Debug\QLCuaHangGiaiKhat.Properties.Resources.resources
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\obj\Debug\QLCuaHangGiaiKhat.csproj.GenerateResource.Cache
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\obj\Debug\QLCuaHangGiaiKhat.exe
+E:\C#\QLCuaHangGiaiKhat\QLCuaHangGiaiKhat\obj\Debug\QLCuaHangGiaiKhat.pdb
